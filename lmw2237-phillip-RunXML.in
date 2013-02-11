@@ -1,0 +1,237 @@
+<THU>
+	<Team>
+		<ACRush></ACRush>
+		<Jelly></Jelly>
+		<Cooly></Cooly>
+	</Team>
+	<JiaJia>
+		<Team>
+			<Ahyangyi></Ahyangyi>
+			<Dragon></Dragon>
+			<Cooly><Amber></Amber></Cooly>
+		</Team>
+	</JiaJia>
+</THU>
+<Team>
+	<Cooly></Cooly>
+</Team>
+
+
+
+
+
+
+
+
+
+<THU>
+	<Team>
+		<ACRush></ACRush>
+		<Jelly></Jelly>
+		<Team>
+			<Cooly></Cooly>
+		</Team>
+		<Cooly></Cooly>
+	</Team>
+	<JiaJia>
+		<Team>
+			<Ahyangyi></Ahyangyi>
+			<Dragon></Dragon>
+			<Cooly><Amber></Amber></Cooly>
+		</Team>
+	</JiaJia>
+</THU>
+<Team>
+	<Cooly></Cooly>
+</Team>
+
+
+
+
+
+
+
+
+
+
+<THU>
+	<Team>
+		<ACRush></ACRush>
+		<Jelly></Jelly>
+		<extraTag><Cooly></Cooly></extraTag>
+	</Team>
+	<JiaJia>
+		<Team>
+			<Ahyangyi></Ahyangyi>
+			<Dragon></Dragon>
+			<Cooly><Amber></Amber></Cooly>
+		</Team>
+	</JiaJia>
+</THU>
+<Team>
+	<Cooly></Cooly>
+</Team>
+
+
+
+
+
+
+
+
+
+
+
+<THU>
+	<Team>
+		<ACRush></ACRush>
+		<Jelly></Jelly>
+		<extraTag><Cooly></Cooly></extraTag>
+	</Team>
+	<JiaJia>
+		<Team>
+		</Team>
+	</JiaJia>
+</THU>
+<Team>
+	<Cooly></Cooly>
+</Team>
+
+
+
+
+
+
+
+
+
+
+
+<Team>
+		<ACRush></ACRush>
+		<Jelly></Jelly>
+		<Cooly></Cooly>
+</Team>
+<Team>
+	<Cooly></Cooly>
+</Team>
+
+
+
+
+
+
+
+
+
+
+<THU>
+	<Team>
+		<ACRush></ACRush>
+		<Jelly></Jelly>
+		<extraTag><Cooly></Cooly></extraTag>
+	</Team>
+	<JiaJia>
+		<Team>
+		</Team>
+	</JiaJia>
+</THU>
+<Team>
+	<JiaJia></JiaJia>
+</Team>
+
+
+
+
+
+
+
+
+
+
+
+
+<THU><Team><ACRush></ACRush><Jelly></Jelly><Cooly></Cooly></Team><WHAT><Team></Team></WHAT><JiaJia><Team>
+
+
+			<Ahyangyi></Ahyangyi>
+			<Dragon></Dragon>
+			<Team><Dragon></Dragon></Team>
+			<Cooly><a></a></Cooly>
+		</Team>
+	</JiaJia>
+	<a>
+		<b>
+			<c>
+				<Team>
+					<Dragon></Dragon>
+				</Team>
+			</c>
+		</b></a></THU><Team><Dragon></Dragon></Team>
+
+
+
+
+
+
+
+
+
+
+
+
+<THU><Team><ACRush></ACRush><Jelly></Jelly><Cooly></Cooly></Team><WHAT><Team></Team></WHAT><JiaJia><Team><Ahyangyi></Ahyangyi><Dragon></Dragon><Team><Dragon></Dragon></Team><Cooly><a></a></Cooly></Team></JiaJia><a><b><c><Team><Dragon></Dragon></Team></c></b></a></THU><Team><Dragon></Dragon></Team>
+
+
+
+
+
+
+
+
+
+<THU><Team><ACRush></ACRush><Jelly></Jelly><Cooly></Cooly></Team><WHAT><Team></Team></WHAT><JiaJia><Team><Ahyangyi></Ahyangyi><Dragon></Dragon><Team><Dragon></Dragon></Team><Cooly><a></a></Cooly></Team></JiaJia><a><b><c><Team><Dragon></Dragon></Team></c></b></a></THU>
+<Team><Dragon></Dragon></Team>
+
+
+
+
+
+
+
+
+<THU>
+	<Team>
+		<ACRush></ACRush>
+		<Jelly></Jelly>
+		<Cooly></Cooly>
+	</Team>
+	<WHAT>
+		<Team></Team>
+	</WHAT>
+	<JiaJia>
+		<Team>
+			<Ahyangyi></Ahyangyi>
+			<Dragon></Dragon>
+			<Team>
+				<Dragon></Dragon>			</Team>
+			<Cooly><a></a></Cooly>
+		</Team>
+	</JiaJia>
+	<a>
+		<b>
+			<c>
+				<Team>
+					<Dragon></Dragon>
+				</Team>
+			</c>
+		</b>
+	</a>
+</THU>
+<Team>
+	<Dragon></Dragon>
+</Team>
+
+
+
+
