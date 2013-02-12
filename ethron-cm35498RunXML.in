@@ -1,0 +1,128 @@
+<THU>
+	<Team>
+		<ACRush><Cooly></Cooly></ACRush>
+		<Jelly></Jelly>
+	</Team>
+	<JiaJia>
+		<Team>
+			<Dragon></Dragon>
+			<Cooly></Cooly>
+		</Team>
+	</JiaJia>
+</THU>
+<Team><Cooly></Cooly></Team>
+
+
+<ANIMALS>
+	<Dogs>
+		<Rabbits></Rabbits>
+		<Frogs></Frogs>
+	</Dogs>
+		<Cheetahs></Cheetahs>
+</ANIMALS>
+<Dogs><Cheetahs></Cheetahs></Dogs>
+
+
+<ANIMALS>
+	<Cats>
+		<Tiger><Cub></Cub></Tiger>
+		<Cheetah></Cheetah>
+		<Leopard></Leopard>
+	</Cats>
+	<Cats>
+		<Cub></Cub>
+	</Cats>
+</ANIMALS>
+<Cats><Tiger><Cub></Cub></Tiger></Cats>
+
+
+<ANIMALS>
+	<Dogs>
+		<Frogs></Frogs>
+		<Cats></Cats>
+		<Ocelots></Ocelots>
+	</Dogs>
+	<Cats>
+		<Dogs>
+			<Ocelots></Ocelots>
+			<Frogs></Frogs>
+		</Dogs>
+	</Cats>
+</ANIMALS>
+<Dogs><Frogs></Frogs></Dogs>
+
+
+<ANIMALS>
+	<Cats>
+		<Dogs></Dogs>
+		<Wolves></Wolves>
+	</Cats>
+</ANIMALS>
+<Dogs><Cats></Cats></Dogs>
+
+
+<ANIMALS>
+	<Cats>
+		<Leopards><Cheetahs><Tigers></Tigers></Cheetahs></Leopards>
+		<Ocelots></Ocelots>
+		<Bobcats></Bobcats>
+	</Cats>
+	<Leopards>
+		<Cheetahs></Cheetahs>
+		<Tigers></Tigers>
+	</Leopards>
+</ANIMALS>
+<Leopards><Cheetahs><Tigers></Tigers></Cheetahs></Leopards>
+
+
+<ANIMALS>
+	<Frogs></Frogs>
+	<Snakes>
+		<Lizards></Lizards>
+		<Salamanders><Geckos></Geckos></Salamanders>
+	</Snakes>
+	<Salamanders>
+		<Geckos><Toads></Toads></Geckos>
+	</Salamanders>
+</ANIMALS>
+<Salamanders><Geckos></Geckos></Salamanders>
+
+
+<FOOD>
+	<Pizza>
+		<Sauce>
+			<Tomato></Tomato>
+		</Sauce>
+		<Cheese></Cheese>
+		<Toppings>
+			<Pepperoni></Pepperoni>
+			<Pineapple></Pineapple>
+			<Mushroom></Mushroom>
+		</Toppings>
+	</Pizza>
+</FOOD>
+<Pizza><Pineapple></Pineapple></Pizza>
+
+
+<FOOD>
+<Noodles>
+			<Spaghetti>
+<Macaroni>
+<Ramen>
+		</Ramen>
+	</Macaroni>
+</Spaghetti>
+				</Noodles>
+</FOOD>
+<Spaghetti><Macaroni></Macaroni></Spaghetti>
+
+
+<FURNITURE>
+		<Chairs>
+<Tables></Tables>
+</Chairs>	<Fridge></Fridge>
+
+<Chairs></Chairs><Fridge></Fridge>
+</FURNITURE>
+
+<Chairs></Chairs><Fridge></Fridge>
