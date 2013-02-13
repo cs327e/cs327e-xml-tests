@@ -25,14 +25,14 @@
 
 
 <THU>
-	<Team>
+	<Mate>
 		<ACRush></ACRush>
 		<Jelly></Jelly>
 		<Team>
 			<Cooly></Cooly>
 		</Team>
 		<Cooly></Cooly>
-	</Team>
+	</Mate>
 	<JiaJia>
 		<Team>
 			<Ahyangyi></Ahyangyi>
@@ -151,14 +151,24 @@
 
 
 
-<THU><Team><ACRush></ACRush><Jelly></Jelly><Cooly></Cooly></Team><WHAT><Team></Team></WHAT><JiaJia><Team>
-
-
+<THU>
+	<Team>
+		<ACRush></ACRush>
+		<Jelly></Jelly>
+		<Cooly></Cooly>
+	</Team>
+	<WHAT>
+		<Team></Team>
+	</WHAT>
+	<JiaJia>
+		<Team>
 			<Ahyangyi></Ahyangyi>
 			<Dragon></Dragon>
-			<Team><Dragon></Dragon></Team>
-			<Cooly><a></a></Cooly>
 		</Team>
+			<Dragon></Dragon>
+			<Other>
+				<Cooly><a></a></Cooly>
+			</Other>
 	</JiaJia>
 	<a>
 		<b>
@@ -167,7 +177,8 @@
 					<Dragon></Dragon>
 				</Team>
 			</c>
-		</b></a></THU><Team><Dragon></Dragon></Team>
+		</b></a></THU><Team><Dragon></Dragon>
+</Team>
 
 
 
@@ -180,7 +191,7 @@
 
 
 
-<THU><Team><ACRush></ACRush><Jelly></Jelly><Cooly></Cooly></Team><WHAT><Team></Team></WHAT><JiaJia><Team><Ahyangyi></Ahyangyi><Dragon></Dragon><Team><Dragon></Dragon></Team><Cooly><a></a></Cooly></Team></JiaJia><a><b><c><Team><Dragon></Dragon></Team></c></b></a></THU><Team><Dragon></Dragon></Team>
+<THU><Team><ACRush></ACRush><Jelly></Jelly><Cooly></Cooly></Team><WHAT><Team></Team></WHAT><JiaJia><Team><Ahyangyi></Ahyangyi><Dragon></Dragon></Team><Dragon></Dragon><Other><Cooly><a></a></Cooly></Other></JiaJia><a><b><c><Team><Dragon></Dragon></Team></c></b></a></THU><Team><Dragon></Dragon></Team>
 
 
 
@@ -188,11 +199,8 @@
 
 
 
-
-
-<THU><Team><ACRush></ACRush><Jelly></Jelly><Cooly></Cooly></Team><WHAT><Team></Team></WHAT><JiaJia><Team><Ahyangyi></Ahyangyi><Dragon></Dragon><Team><Dragon></Dragon></Team><Cooly><a></a></Cooly></Team></JiaJia><a><b><c><Team><Dragon></Dragon></Team></c></b></a></THU>
+<THU><Team><ACRush></ACRush><Jelly></Jelly><Cooly></Cooly></Team><WHAT><Team></Team></WHAT><JiaJia><Team><Ahyangyi></Ahyangyi><Dragon></Dragon></Team><Dragon></Dragon><Other><Cooly><a></a></Cooly></Other></JiaJia><a><b><c><Team><Dragon></Dragon></Team></c></b></a></THU>
 <Team><Dragon></Dragon></Team>
-
 
 
 
@@ -213,10 +221,11 @@
 		<Team>
 			<Ahyangyi></Ahyangyi>
 			<Dragon></Dragon>
-			<Team>
-				<Dragon></Dragon>			</Team>
-			<Cooly><a></a></Cooly>
 		</Team>
+			<Dragon></Dragon>
+			<Other>
+				<Cooly><a></a></Cooly>
+			</Other>
 	</JiaJia>
 	<a>
 		<b>
