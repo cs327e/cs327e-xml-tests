@@ -1,0 +1,187 @@
+<THU>
+	<Team>
+		<ACRush></ACRush>
+		<Jelly></Jelly>
+		<Cooly></Cooly>
+	</Team>
+	<JiaJia>
+		<Team>
+			<Ahyangyi></Ahyangyi>
+			<Dragon></Dragon>
+			<Cooly><Amber></Amber></Cooly>
+		</Team>
+	</JiaJia>
+</THU>
+<Team><Cooly></Cooly></Team>
+
+<a>
+	<b>
+		<c></c>
+		<d><y></y></d>
+		<e></e>
+	</b>
+	<d>
+		<y>
+			<h></h>
+			<x><w><j><z></z></j></w></x>
+		</y>
+	</d>
+</a>
+<d><y></y></d>
+
+<a>
+	<b>
+		<c><cc><ccc></ccc></cc></c>
+		<d><c></c></d>
+		<e><ee><c></c></ee></e>
+	</b>
+	<w>
+		<b><c></c></b>
+		<g><b><c><j></j></c></b></g>
+		<e></e>
+	</w>
+	<x><b><c></c></b>
+	</x>
+</a>
+<b><c></c></b>
+
+<a>
+	<b>
+		<c><cc><ccc></ccc></cc></c>
+		<d><c></c></d>
+		<e><ee><c></c><b><c></c></b></ee></e>
+	</b>
+	<w>
+		<b><c></c></b>
+		<g><b><c><j></j></c></b></g>
+		<e></e>
+	</w>
+	<x><b><c></c></b>
+	</x>
+</a>
+<b><c></c></b>
+
+<and>
+	<or>
+		<not></not>
+		<xor>
+		</xor>
+		<nor>
+			<nand></nand>
+		</nor>
+	</or>
+</and>
+<or><nor><nand></nand></nor></or>
+		
+<a>
+	<b></b>
+	<c>
+	</c>
+	<d>
+	</d>
+	<e>
+		<f>
+			<g>
+			</g>
+			<h>
+				<i></i>
+			</h>
+			<j>
+				<i></i>
+			</j>
+		</f>
+	</e>
+	<k>
+		<i>
+		</i>
+	</k>
+</a>
+<i></i>
+
+<a>
+	<b></b>
+	<c>
+		<d>
+		</d>
+	</c>
+	<e>
+		<c>
+			<d></d>
+		</c>
+	<e/>
+</a>
+<c><d></d></c>
+
+<a>
+	<b>
+		<c>
+		</c>
+		<d>
+			<e>
+			</e>
+		</d>
+		<f>
+			<d>
+				<e></e>
+			</d>
+		</f>
+	</b>
+	<d>
+		<e>
+		</e>
+	</d>
+</a>
+<d><e></e></d>
+
+<a>
+	<b></b>
+	<c></c>
+	<d>
+		<e>
+			<f>
+				<g>
+					<h>
+						<i>
+						</i>
+					</h>
+				</g>
+			</f>
+		</e>
+		<j>
+			<k>
+				<h>
+					<i></i>
+				</h>
+			</k>
+		</j>
+	</d>
+</a>
+<h><i></i></h>
+
+<a>
+	<b>
+	</b>
+	<b>
+	</b>
+	<b>
+	</b>
+</a>
+<b></b>
+
+<a>
+	<b>
+	</b>
+	<c></c>
+	<c>
+		<b>
+			<d>
+			</d>
+		</b>
+	</c>
+	<b>
+		<d></d>
+		<e></e>
+		<f></f>
+	</b>
+</a>
+<b><d></d></b>
