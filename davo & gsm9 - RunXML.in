@@ -1,0 +1,192 @@
+<a>
+    <b>
+        <c>
+            <rush></rush>
+            <speed></speed>
+        </c>
+        <push></push>
+        <Nspeed2></Nspeed2>
+    </b>
+</a>
+<c><rush></rush><c>
+
+
+
+<a>
+    <b>
+        <c>
+            <clitz></clitz>
+            <clinch></clinch>
+            <aa></aa>
+        </c>
+        <clunch></clunch>
+        <blitz></blitz>
+    </b>
+    <d>
+        <houseBlitz></houseBlitz>
+        <blitz></blitz>
+        <door></door>
+    </d>
+    <e>
+        <blitz></blitz>
+    </e>
+</a>
+<b><blitz></blitz></b>
+
+
+
+<Sports>
+    <Basketball>
+        <athletes>
+            <Kobe></Kobe>
+            <Lebron></Lebron>
+            <Durant></Durant>
+            <Carmelo></Carmelo>
+        </athletes>
+    </Basketball>
+    <Soccer>
+        <athletes>
+            <Messi></Messi>
+            <CRonaldo></CRonaldo>
+            <Iniesta></Iniesta>
+            <Xavi></Xavi>
+            <Kobe></Kobe>
+        </athletes>
+    </Soccer
+    <Legends>
+        <Ronaldo></Ronaldo
+        <Zidane></Zidane>
+        <Kobe></Kobe>
+        <Figo></Figo>
+    </Legends>
+    <CareerPoints>
+        <Kobe></Kobe>
+    </CareerPoints>
+</Sports>
+<athletes><Kobe></Kobe></athletes>
+
+
+
+<a>
+    <b>
+        <r></r>
+        <j></j>
+        <co></co>
+    </b>
+    <jj>
+        <d>
+            <aA></aA>
+            <dr></dr>
+            <co></co>
+        </d>
+        <co></co>
+        <aaa></aaa>
+    </jj>
+</a>
+<jj><aaa></aaa></jj>
+
+
+
+<THU>
+    <Team>
+        <ACRush></ACRush>
+        <Jelly></Jelly>
+        <Cooly></Cooly>
+    </Team>
+    <JiaJia>
+        <Team>
+            <Ahyangyi></Ahyangyi>
+            <Dragon></Dragon>
+            <Cooly><Amber></Amber></Cooly>
+        </Team>
+    </JiaJia>
+</THU>
+<Team><Cooly><Amber></Amber></Cooly></Team>
+
+
+
+<a>
+    <b>
+        <ac></ac>
+        <ab></ab>
+    </b>
+    <c>
+    </c>
+</a>
+
+
+
+
+<a>
+    <b>
+        <c>
+            <d>
+                <eek></eek>
+                <boo></boo>
+            </d>
+        </c>
+        <e>
+            <eek></eek>
+        </e>
+    </b>
+</a>
+<c><d></d></c>
+
+
+
+<year>
+    <month>
+        <octb></octb>
+        <jan></jan>
+        <mar></mar>
+    </month>
+    <holiday>
+        <octb></octb>
+        <feb></feb>
+    </holiday>
+    <halloween>
+        <octb></octb>
+        <jan></jan>
+    </halloween>
+</year>
+<month><octb></octb></month>
+
+
+
+<Foo>
+    <boo>
+        <rat><brat></brat></rat>
+        <bat></bat>
+    </boo>
+    <woo>
+        <brat></brat>
+        <wat></wat>
+    </woo>
+    <pool>
+        <alligator></alligator>
+        <fish></fish>
+    </pool>
+    <tank>
+        <lionFish></lionFish>
+        <brat2></brat2>
+    </tank>
+    <tunnel>
+        <boo>
+            <brat></brat>
+        </boo>
+    </tunnel>
+<Foo>
+<boo><brat></brat><boo>
+
+
+
+<ANIMALS>
+    <Dogs>
+        <Rabbits></Rabbits>
+        <Frogs></Frogs>
+    </Dogs>
+    <Cheetahs></Cheetahs>
+</ANIMALS>
+<Dogs><Cheetahs></Cheetahs></Dogs>
+
+
