@@ -1,0 +1,122 @@
+<THU>
+	<Team>
+		<ACRush></ACRush>
+		<Jelly></Jelly>
+		<Cooly></Cooly>
+	</Team>
+	<JiaJia>
+		<Team>
+			<Ahyangyi></Ahyangyi>
+			<Dragon></Dragon>
+			<Cooly><Amber></Amber></Cooly>
+		</Team>
+	</JiaJia>
+</THU>
+<Team><Cooly></Cooly></Team>
+
+
+
+
+<THU>
+	<Team>
+		<ACRush></ACRush>
+		<Jelly></Jelly>
+		<Cooly></Cooly>
+	</Team>
+	<JiaJia>
+		<Team>
+			<Ahyangyi></Ahyangyi>
+			<Dragon></Dragon>
+			<Cooly><Amber></Amber></Cooly>
+		</Team>
+	</JiaJia>
+</THU>
+<JiaJia></JiaJia>
+
+
+
+
+<THU>
+	<Team>
+		<ACRush></ACRush>
+		<Jelly></Jelly>
+		<Cooly></Cooly>
+	</Team>
+	<JiaJia>
+		<Team>
+			<Ahyangyi></Ahyangyi>
+			<Dragon></Dragon>
+			<Cooly><Amber></Amber></Cooly>
+		</Team>
+	</JiaJia>
+</THU>
+<Cooly><Amber></Amber></Cooly>
+
+
+
+
+<a>
+	<b></b>
+</a>
+<b></b>
+
+
+
+<WED>
+	<Team>
+		<Alex></Alex>
+		<Mallory></Mallory>
+		<Yuchen></Yuchen>
+	</Team>
+	<CS>
+		<Team>
+			<Taylor></Taylor>
+			<Martha></Martha>
+			<Mallory><Amber></Amber></Mallory>
+		</Team>
+	</CS>
+</WED>
+<Team><Mallory></Mallory></Team>
+
+
+
+<a>
+	<b><c></c></b>
+</a>
+<b><c></c></b>
+
+
+<a>
+	<b></b>
+	<c></c>
+	<d></d>
+	<e></e>
+</a>
+<d></d>
+
+
+
+<a>
+	<b><c><d></d></c></b>
+</a>
+<c></c>
+
+
+
+
+<1>
+	<2></2>
+	<3><4></4></3>
+</1>
+<3><4></4></3>
+
+
+
+<1>
+	<2></2>
+	<3></3>
+	<2></2>
+	<2></2>
+</1>
+<3></3>
+
