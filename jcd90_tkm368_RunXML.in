@@ -1,0 +1,196 @@
+<THU>
+	<Team>
+		<ACRush></ACRush>
+		<Jelly></Jelly>
+		<Cooly></Cooly>
+	</Team>
+	<JiaJia>
+		<Team>
+			<Ahyangyi></Ahyangyi>
+			<Dragon></Dragon>
+			<Cooly><Amber></Amber></Cooly>
+		</Team>
+	</JiaJia>
+</THU>
+<Team><Cooly></Cooly></Team>
+
+<THU>
+	<Expert>
+		<Silver>
+			<Ranger></Ranger>
+			<Doctor></Doctor>
+		</Silver>
+		<Jelly></Jelly>
+		<Cooly></Cooly>
+	</Expert>
+	<JiaJia>
+		<Team>
+			<Expert></Expert>
+			<Silver></Silver>
+			<Ranger></Ranger>
+		</Team>
+	</JiaJia>
+</THU>
+<Expert><Silver><Ranger></Ranger></Silver></Expert>
+
+<THU>
+	<Team>
+		<Scepter>
+			<Ahyangyi></Ahyangyi>
+		</Scepter>
+	</Team>
+	<JiaJia>
+		<Team>
+			<Ahyangyi></Ahyangyi>
+			<Dragon></Dragon>
+			<Cooly><Amber></Amber></Cooly>
+		</Team>
+	</JiaJia>
+</THU>
+<Team><Ahyangyi></Ahyangyi></Team>
+
+<THU>
+	<Expert>
+		<Silver>
+			<Ranger></Ranger>
+			<Doctor></Doctor>
+		</Silver>
+		<Jelly></Jelly>
+		<Cooly></Cooly>
+	</Expert>
+	<JiaJia>
+		<Team>
+			<Expert></Expert>
+			<Silver></Silver>
+			<Ranger></Ranger>
+		</Team>
+	</JiaJia>
+	<Bogart>
+		<Red>
+			<Serpentine>
+				<Transport></Transport>
+				<Expert>
+					<Silver>
+						<Ranger></Ranger>
+					</Silver>
+				</Expert>
+			</Serpentine>
+		</Red>
+	</Bogart>
+	<Bogart>
+		<Red>
+			<Serpentine>
+				<Mugshot>
+					<Independent></Independent>
+				</Mugshot>
+				<Scrapyard></Scrapyard>
+			</Serpentine>
+		</Red>
+		<Septillion></Septillion>
+	</Bogart>
+</THU>
+<Expert><Silver><Ranger></Ranger></Silver></Expert>
+
+<THU>
+	<Expert>
+		<Silver>
+			<Ranger></Ranger>
+			<Doctor></Doctor>
+		</Silver>
+		<Jelly></Jelly>
+		<Cooly></Cooly>
+	</Expert>
+	<JiaJia>
+		<Team>
+			<Expert></Expert>
+			<Silver></Silver>
+			<Ranger></Ranger>
+		</Team>
+	</JiaJia>
+	<Bogart>
+		<Red>
+			<Serpentine>
+				<Transport></Transport>
+				<Expert>
+					<Silver>
+						<Ranger></Ranger>
+					</Silver>
+				</Expert>
+			</Serpentine>
+		</Red>
+	</Bogart>
+	<Bogart>
+		<Red>
+			<Serpentine>
+				<Mugshot>
+					<Independent></Independent>
+				</Mugshot>
+				<Scrapyard></Scrapyard>
+			</Serpentine>
+		</Red>
+		<Septillion></Septillion>
+	</Bogart>
+	<Bogart></Bogart>
+</THU>
+<Bogart><Red></Red></Bogart>
+
+<THU>
+	<Team>
+		<ACRush></ACRush>
+		<Jelly></Jelly>
+		<Cooly></Cooly>
+	</Team>
+	<JiaJia>
+		<Team>
+			<Ahyangyi>
+				<ACRush></ACRush>
+			</Ahyangyi>
+			<Dragon></Dragon>
+			<Cooly><Amber></Amber></Cooly>
+		</Team>
+	</JiaJia>
+</THU>
+<Team><ACRush></ACRush></Team>
+
+<THU><Team><ACRush></ACRush><Jelly></Jelly><Cooly></Cooly</Team><JiaJia><Team><Ahyangyi><ACRush></ACRush></Ahyangyi><Dragon></Dragon><Cooly><Amber></Amber></Cooly></Team></JiaJia></THU><Team><ACRush></ACRush></Team>
+
+<THU>
+	<Degraded>
+		<Simple></Simple>
+	</Degraded>
+</THU>
+<Degraded><Simple></Simple></Degraded>
+
+<THU>
+	<Team>
+		<ACRush>
+			<Team>
+				<ACRush></ACRush>
+			</Team>
+		</ACRush>
+		<Jelly></Jelly>
+		<Cooly></Cooly>
+	</Team>
+	<JiaJia>
+		<Team>
+			<Ahyangyi>
+				<ACRush></ACRush>
+			</Ahyangyi>
+			<Dragon></Dragon>
+			<Cooly><Amber><Team>
+				<ACRush></ACRush>
+			</Team>
+			</Amber></Cooly>
+		</Team>
+	</JiaJia>
+</THU>
+<Team><ACRush></ACRush></Team>
+
+<THU>
+	<Degraded>
+		<Simple></Simple>
+	</Degraded>
+	<Degraded><Simple></Simple><Pimple></Pimple></Degraded>
+	<Monstrous><Degraded><Simple></Simple></Degraded></Monstrous>
+</THU>
+<Degraded><Simple></Simple></Degraded>
