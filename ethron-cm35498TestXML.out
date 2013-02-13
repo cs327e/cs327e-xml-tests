@@ -1,0 +1,14 @@
+.......................
+----------------------------------------------------------------------
+Ran 23 tests in 0.109s
+
+OK
+
+Traceback (most recent call last):
+  File "C:\Users\Cheng Ma\Repositories\CS327E - XML\TestXML.py", line 204, in <module>
+    unittest.main()
+  File "C:\Program Files (x86)\Python 2\lib\unittest\main.py", line 95, in __init__
+    self.runTests()
+  File "C:\Program Files (x86)\Python 2\lib\unittest\main.py", line 231, in runTests
+    sys.exit(not self.result.wasSuccessful())
+SystemExit: False
