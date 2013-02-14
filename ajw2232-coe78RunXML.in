@@ -1,0 +1,231 @@
+<Horses>
+	<Dog>
+		<Cat>
+			<Worm></Worm>
+			<Fish></Fish>
+		</Cat>
+	</Dog>
+	<Penguin>
+		<Dog>
+			<Lion></Lion>
+			<Shark></Shark>
+			<Cat></Cat>
+		</Dog>
+	</Penguin>
+	<Cow></Cow>
+</Horses>
+<Dog><Cat></Cat></Dog>
+
+
+
+
+
+<THU>
+	<Team>
+		<Bob></Bob>
+		<John></John>
+		<Chris><Kelvin></Kelvin></Chris>
+		<Alicia></Alicia>
+	</Team>
+	<JiaJia>
+		<Team>
+			<Tim></Tim>
+			<7></7>
+		</Team>
+	</JiaJia>
+</THU>
+<Team><7></7></Team>
+
+
+<Horses>
+	<Dog>
+		<Cat>
+			<Worm></Worm>
+			<Fish></Fish>
+		</Cat>
+	</Dog>
+	<Penguin>
+		<Dog>
+			<Lion></Lion>
+			<Shark></Shark>
+			<Cat></Cat>
+		</Dog>
+	</Penguin>
+	<Cow></Cow>
+</Horses>
+<Cat><Worm></Worm></Cat>
+
+
+<Horses>
+	<Dog>
+		<Cat>
+			<Worm></Worm>
+			<Fish></Fish>
+		</Cat>
+	</Dog>
+	<Penguin>
+		<Dog>
+			<Lion></Lion>
+			<Shark></Shark>
+			<Cat></Cat>
+		</Dog>
+	</Penguin>
+	<Cow></Cow>
+</Horses>
+<Horses><Penguin></Penguin></Horses>
+
+
+<Horses>
+	<Dog>
+		<Cat>
+			<Worm></Worm>
+			<Fish></Fish>
+		</Cat>
+	</Dog>
+	<Penguin>
+		<Dog>
+			<Lion></Lion>
+			<Shark></Shark>
+			<Cat></Cat>
+		</Dog>
+	</Penguin>
+	<Cow></Cow>
+</Horses>
+<Horses><Cow></Cow></Horses>
+
+
+<Horses>
+	<Dog>
+		<Cat>
+			<Worm></Worm>
+			<Fish></Fish>
+		</Cat>
+		<Deer>
+			<Watermelon></Watermelon>
+			<Strawberry></Strawberry>
+		</Deer>
+		<Pancake></Pancake>
+	</Dog>
+	<Penguin>
+		<Dog>
+			<Lion></Lion>
+			<Shark></Shark>
+			<Cat></Cat>
+		</Dog>
+	</Penguin>
+	<Cow><Cheese></Cheese></Cow>
+</Horses>
+<Dog><Pancake></Pancake></Dog>
+
+
+<Horses>
+	<Dog>
+		<Cat>
+			<Worm></Worm>
+			<Fish></Fish>
+		</Cat>
+		<Deer>
+			<Watermelon></Watermelon>
+			<Strawberry></Strawberry>
+		</Deer>
+		<Pancake></Pancake>
+	</Dog>
+	<Penguin>
+		<Dog>
+			<Lion></Lion>
+			<Shark></Shark>
+			<Cat></Cat>
+		</Dog>
+		<Horses>
+			<Dog></Dog>
+		</Horses>
+	</Penguin>
+	<Cow><Cheese></Cheese></Cow>
+</Horses>
+<Deer><Watermelon></Watermelon></Deer>
+
+
+<Horses>
+	<Dog>
+		<Cat>
+			<Worm></Worm>
+			<Fish></Fish>
+		</Cat>
+		<Deer>
+			<Watermelon></Watermelon>
+			<Strawberry></Strawberry>
+		</Deer>
+		<Pancake></Pancake>
+	</Dog>
+	<Penguin>
+		<Dog>
+			<Lion></Lion>
+			<Shark></Shark>
+			<Cat></Cat>
+		</Dog>
+		<Horses>
+			<Dog></Dog>
+		</Horses>
+	</Penguin>
+	<Cow><Cheese></Cheese></Cow>
+	<Deer><Watermelon></Watermelon></Deer>
+</Horses>
+<Deer><Watermelon></Watermelon></Deer>
+
+
+
+<Horses>
+	<Dog>
+		<Cat>
+			<Worm></Worm>
+			<Fish></Fish>
+		</Cat>
+		<Deer>
+			<Watermelon></Watermelon>
+			<Strawberry></Strawberry>
+		</Deer>
+		<Pancake></Pancake>
+	</Dog>
+	<Penguin>
+		<Dog>
+			<Lion></Lion>
+			<Shark></Shark>
+			<Cat></Cat>
+		</Dog>
+		<Horses>
+			<Dog></Dog>
+		</Horses>
+	</Penguin>
+	<Cow><Cheese></Cheese></Cow>
+	<Deer><Watermelon></Watermelon></Deer>
+</Horses>
+<Deer><Strawberry></Strawberry></Deer>
+
+
+<Horses>
+	<Dog>
+		<Cat>
+			<Worm></Worm>
+			<Deer><Watermelon></Watermelon></Deer>
+			<Fish></Fish>
+		</Cat>
+		<Deer>
+			<Watermelon></Watermelon>
+			<Strawberry></Strawberry>
+		</Deer>
+		<Pancake></Pancake>
+	</Dog>
+	<Penguin>
+		<Dog>
+			<Lion></Lion>
+			<Shark></Shark>
+			<Cat></Cat>
+		</Dog>
+		<Horses>
+			<Dog></Dog>
+		</Horses>
+	</Penguin>
+	<Cow><Cheese></Cheese></Cow>
+	<Deer><Watermelon></Watermelon></Deer>
+</Horses>
+<Deer><Watermelon></Watermelon></Deer>
