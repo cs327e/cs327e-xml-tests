@@ -1,0 +1,160 @@
+<FRI>
+    <doo>
+    </doo>
+</FRI> 
+ 
+<doo></doo>   
+
+
+<HIT>
+  <hi>
+    <pledge>
+    </pledge>
+  </hi>
+  
+  <raylewis><oprah>
+    <hi>
+      <pledge>
+      </pledge>
+    </hi>
+  </oprah></raylewis>
+  
+</HIT>
+<hi><pledge></pledge></hi>
+
+
+
+
+<Food>
+  <Fruit>
+    <Banana></Banana><Orange></Orange>
+    <Strawberry></Strawberry>
+  </Fruit>
+  <Junk>
+     <Cookies><Candy></Candy></Cookies>
+  </Junk>
+</FOod>
+
+<Junk><Candy></Candy></Junk>
+
+
+<HTTP>
+  <Website>
+    <Amazon></Amazon>
+    <Facebook></Facebook>
+    <Google></Google>
+  </Website>
+  <Cookies>
+  <Website>
+    <Amazon></Amazon><OmegaFi></OmegaFi>
+  </Website>
+  </Cookies>
+</HTTP>
+
+<Website><Amazon></Amazon></Website>
+
+
+
+<Material>
+   <Metal>
+     <Steel><Copper></Copper></Steel>
+     <Iron></Iron>
+     <Ore></Ore>
+   </Metal>
+   <Chemicals>
+     <Petro><Gas></Petro></Gas>
+   </Chemicals>
+   <Metal>
+      <Steel><Ore></Ore><Copper></Copper><Steel></Steel>
+   </Metal>
+</Material>
+
+<Metal><Steel><Copper></Copper></Steel></Metal>
+
+
+<A>
+  <B></B>
+  <C>
+    <D><E><F></F></E></D>
+  </C>
+  <B>
+    <D><E><F></F></E></D>
+    <G></G>
+  </B>
+<A>
+
+<B><F></F></B>
+
+
+<Objects>
+  <Desk>
+    <Cup><Computer></Computer></Cup>
+    <Speakers></Speakers>
+    <Notebook></Notebook>
+  </Desk>
+  <Shelf>
+    
+    <Speakers><Xbox><Games><Glasses></Glasses></Games></Xbox></Speakers>
+  </Shelf>
+  <Couch>
+    <Blanket><Pillow></Pullow></Blanket>
+  </Couch
+</Objects>
+
+<Shelf><Xbox></Xbox></Shelf>
+
+
+
+
+
+<Objects>
+  <Desk>
+    <Cup><Computer></Computer></Cup>
+    <Speakers></Speakers>
+    <Notebook></Notebook>
+  </Desk>
+  <Shelf>
+    
+    <Speakers><Xbox><Games><Glasses></Glasses></Games></Xbox></Speakers>
+  </Shelf>
+  <Couch>
+    <Blanket><Pillow></Pullow></Blanket>
+  </Couch
+</Objects>
+
+<Shelf><Xbox><Games></Games></Xbox></Shelf>
+
+
+<Material>
+   <Metal>
+     <Steel><Copper></Copper></Steel>
+     <Iron></Iron>
+     <Ore><blank></blank></Ore>
+   </Metal>
+   <Chemicals>
+     <Petro><Gas></Petro></Gas>
+   </Chemicals>
+   <Metal>
+      <Steel><Ore></Ore><Copper></Copper><Steel></Steel>
+   </Metal>
+</Material>
+
+<Metal><Steel><Copper><blank></blank></Copper></Steel></Metal>
+
+
+<Objects>
+  <Desk>
+    <Cup><Computer></Computer></Cup>
+    <Speakers></Speakers>
+    <Notebook><stupid><gin></gin></stupid></Notebook>
+  </Desk>
+  <Shelf>
+    
+    <Speakers><Xbox><Games><Glasses></Glasses></Games></Xbox></Speakers>
+  </Shelf>
+  <Couch>
+    <Blanket><Pillow></Pullow></Blanket>
+  </Couch
+</Objects>
+
+<Desk><Notebook><stupid><gin></gin></stupid></Notebook></Desk>
