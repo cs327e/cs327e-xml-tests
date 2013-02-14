@@ -1,0 +1,3 @@
+TestXML.py
+{1: ['<team>', '<jacob>'], 2: ['<jacob>', '<blake>'], 3: ['<blake>']}
+['<team>', '<jacob>', '</jacob>', '</team>']
