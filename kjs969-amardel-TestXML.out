@@ -1,0 +1,46 @@
+FF....F..FF.
+======================================================================
+FAIL: test_eval_1 (__main__.TestXML)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "TestXML.py", line 72, in test_eval_1
+    self.assertTrue( v == [2, 1] )
+AssertionError: False is not true
+
+======================================================================
+FAIL: test_eval_2 (__main__.TestXML)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "TestXML.py", line 79, in test_eval_2
+    self.assertTrue(v == [3, 6, 2])
+AssertionError: False is not true
+
+======================================================================
+FAIL: test_read_1 (__main__.TestXML)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "TestXML.py", line 34, in test_read_1
+    self.assertTrue( a == ["<Lion>", "<Pens>" , "<6th>" , "</6th>" , "</Pens>" , "</Lion>"] )
+AssertionError: False is not true
+
+======================================================================
+FAIL: test_solve_1 (__main__.TestXML)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "TestXML.py", line 124, in test_solve_1
+    self.assertTrue(w.getvalue() == "1\n2\n")
+AssertionError: False is not true
+
+======================================================================
+FAIL: test_solve_2 (__main__.TestXML)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "TestXML.py", line 130, in test_solve_2
+    self.assertTrue(w.getvalue() == "2\n3\n6\n")
+AssertionError: False is not true
+
+----------------------------------------------------------------------
+Ran 12 tests in 0.003s
+
+FAILED (failures=5)
+TestXML.py

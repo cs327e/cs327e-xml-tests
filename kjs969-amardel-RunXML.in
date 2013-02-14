@@ -1,0 +1,171 @@
+<Stuff>
+	<Morestuff>
+		<foundit></foundit>
+	</Morestuff>
+</Stuff>
+<Morestuff><foundit></foundit></Morestuff>
+
+
+<Stuff>
+	<Morestuff>
+		<notit></notit>
+		<nothing></nothing>
+		<foundit></foundit>
+	</Morestuff>
+	<rabbithole>
+		<Morestuff>
+			<notit></notit>
+			<nothing></nothing>
+			<fail></fail>
+		</Morestuff>
+	</rabbithole>
+	<another>
+		<Apple>
+			<Morestuff>
+				<notit></notit>
+				<nothing></nothing>
+				<foundit></foundit>
+			</Morestuff>
+		</Apple>
+	</another>
+</Stuff>
+<Morestuff><foundit></foundit></Morestuff>
+
+
+<Stuff>
+	<Morestuff>
+		<notit></notit>
+		<nothing></nothing>
+	</Morestuff>
+	<Otherstuff>
+		<notit></notit>
+		<nothing></nothing>
+		<fail></fail>
+	</Otherstuff>
+	<Laststuff>
+		<notit></notit>
+		<nothing></nothing>
+	</Laststuff>
+</Stuff>
+<Morestuff><foundit></foundit></Morestuff>
+
+
+<Stuff>
+	<Morestuff>
+	</Morestuff>
+	<Otherstuff>
+	</Otherstuff>
+	<Laststuff>
+	</Laststuff>
+</Stuff>
+<Morestuff><foundit></foundit></Morestuff>
+
+
+<Stuff>
+	<rabbithole>
+		<Morestuff>
+			<notit></notit>
+			<nothing></nothing>
+			<foundit></foundit>
+			<crap></crap>
+		</Morestuff>
+	</rabbithole>
+	<Morestuff>
+		<notit></notit>
+		<nothing></nothing>
+		<fail></fail>
+	</Morestuff>
+	<Extrastuff>
+		<crap></crap>
+	</Extrastuff>
+	<crap>
+		<another>
+			<Morestuff>
+				<notit></notit>
+				<nothing></nothing>
+				<foundit></foundit>
+			</Morestuff>
+		</another>
+	</crap>
+</Stuff>
+<Morestuff><foundit></foundit></Morestuff>
+
+
+<Stuff>
+</Stuff>
+<Morestuff><foundit></foundit></Morestuff>
+
+
+<Stuff>
+	<foundit></foundit>
+</Stuff>
+<Morestuff><foundit></foundit></Morestuff>
+
+
+<Stuff>
+	<Morestuff>
+		<A></A>
+		<B></B>
+		<C></C>
+		<D></D>
+		<E></E>
+		<F></F>
+		<G></G>
+		<H></H>
+		<I></I>
+		<J></J>
+		<K></K>
+		<L></L>
+		<M></M>
+		<N></N>
+		<O></O>
+		<P></P>
+		<Q></Q>
+		<R></R>
+		<S></S>
+		<T></T>
+		<U></U>
+		<V></V>
+		<W></W>
+		<X></X>
+		<Y></Y>
+		<Z></Z>
+		<foundit></foundit>
+	</Morestuff>
+</Stuff>
+<Morestuff><foundit></foundit></Morestuff>
+
+
+<Stuff>
+	<people>
+		<Morestuff>
+			<foundit></foundit>
+			<notfound></notfound>
+		</Morestuff>
+	</people>
+	<Morestuff>
+		<notfound></notfound>
+	</Morestuff>
+	<table>
+		<new>
+			<open>
+				<Morestuff>
+					<foundit></foundit>
+					<notfound></notfound>
+				</Morestuff>
+			</open>
+		</new>
+	</table>
+</Stuff>
+<Morestuff><foundit></foundit></Morestuff>
+
+
+<Morestuff>
+	<foundit>
+		<crap></crap>
+	</foundit>
+	<rabbithole>
+		<crap></crap>
+	</rabbithole>
+</Morestuff>
+<Morestuff><foundit></foundit></Morestuff>
